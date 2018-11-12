@@ -1,0 +1,12 @@
+
+    RelayTimer
+
+
+	- Firmware for the AT85RT2L1B1P system
+
+
+
+
+  	(*) developed (and tested) for ATtiny85 microprocessor running 
+	  at 8 MHz from its internal oscillator
+
